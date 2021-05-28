@@ -1,0 +1,68 @@
+body {
+    font-family: Helvetica, sans-serif;
+    width: 100%;
+    margin: 0 auto;
+}
+h3 {
+    text-align: center;
+    color: blue;
+}
+#table {
+    margin: 0 auto;
+    width: 50%;
+}
+#table, th, td {
+    border: 1px solid rgb(212, 212, 212);
+    border-collapse: collapse;
+    height: 35px;
+    padding-left: 10px;
+}
+
+.green {
+    background-color: rgb(19, 133, 43);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    height: 50px;
+}
+span {
+    font-weight: bold;
+}
+
+.vang {
+    background-color: rgb(255, 255, 172);
+    text-align: center;
+}
+.center {
+    text-align: center;
+    padding: 0;
+}
+
+.xanh {
+    background-color: rgb(220, 255, 252);
+}
+.lama {
+    background-color: rgb(238, 255, 204);
+}
+.gray {
+    background-color: rgb(233, 233, 233);
+}
+.pink {
+    background-color: rgb(255, 239, 247);
+}
+.bold {
+    font-weight: bold;
+}
+.boldred {
+    font-weight: bold;
+    color: rgb(204, 0, 0);
+}
+
+.boldblue {
+    color: blue;
+    margin: 0 auto;
+    text-align: left;
+    width: 50%;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    font-size: 15px;
+}
